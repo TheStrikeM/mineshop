@@ -1,0 +1,44 @@
+{
+	"items": [
+		{
+			"ava": "",
+			"id": 1,
+			"name": "Archer",
+			"sell": 200,
+			"desc": "Это самая лучшая привелегия",
+			"type": "Привелегии",
+			"input": false,
+			"plmin": false
+		},
+		{
+			"ava": "",
+			"id": 2,
+			"name": "Archer",
+			"sell": 200,
+			"desc": "Это самая лучшая привелегия",
+			"type": "Привелегии",
+			"input": false,
+			"plmin": false
+		},
+		{
+			"ava": "",
+			"id": 3,
+			"name": "Archer",
+			"sell": 200,
+			"desc": "Это самая лучшая привелегия",
+			"type": "Кейсы",
+			"input": false,
+			"plmin": false
+		},
+		{
+			"ava": "",
+			"id": 4,
+			"name": "Archer",
+			"sell": 200,
+			"desc": "Это самая лучшая привелегия",
+			"type": "Валюта",
+			"input": false,
+			"plmin": false
+		}
+	]
+}
